@@ -1,0 +1,11 @@
+C:\Users\yameb\source\repos\adisyon uygulaması\adisyon uygulaması\obj\Debug\adisyon uygulaması.csproj.AssemblyReference.cache
+C:\Users\yameb\source\repos\adisyon uygulaması\adisyon uygulaması\obj\Debug\adisyon_uygulaması.Form1.resources
+C:\Users\yameb\source\repos\adisyon uygulaması\adisyon uygulaması\obj\Debug\adisyon_uygulaması.Form2.resources
+C:\Users\yameb\source\repos\adisyon uygulaması\adisyon uygulaması\obj\Debug\adisyon_uygulaması.Properties.Resources.resources
+C:\Users\yameb\source\repos\adisyon uygulaması\adisyon uygulaması\obj\Debug\adisyon uygulaması.csproj.GenerateResource.cache
+C:\Users\yameb\source\repos\adisyon uygulaması\adisyon uygulaması\obj\Debug\adisyon uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yameb\source\repos\adisyon uygulaması\adisyon uygulaması\bin\Debug\adisyon uygulaması.exe.config
+C:\Users\yameb\source\repos\adisyon uygulaması\adisyon uygulaması\bin\Debug\adisyon uygulaması.exe
+C:\Users\yameb\source\repos\adisyon uygulaması\adisyon uygulaması\bin\Debug\adisyon uygulaması.pdb
+C:\Users\yameb\source\repos\adisyon uygulaması\adisyon uygulaması\obj\Debug\adisyon uygulaması.exe
+C:\Users\yameb\source\repos\adisyon uygulaması\adisyon uygulaması\obj\Debug\adisyon uygulaması.pdb
